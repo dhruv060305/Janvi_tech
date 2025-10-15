@@ -12,7 +12,7 @@ function App() {
 
 
   return (
-    <Router>
+    <Router basename="/Janvi_tech">
       <Nav></Nav>
       <Routes>
         <Route path='/' element={
